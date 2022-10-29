@@ -8,6 +8,7 @@ Its important for a wordbreaker to ignore the comments and not convert them into
 
 ***Token ==> (classPart, valuePart, LineNo)***
 These are the keywords, operators and punctuators that i have used in my language.
+
 '''
 **keyWord = {
     "import":"import", "from":"from", "in":"in", "func":"func", "if":"if", "else":"else", "obj":"obj",
@@ -29,6 +30,7 @@ These are the keywords, operators and punctuators that i have used in my languag
     ".":"." , ";":";" , "{":"{" , "}":"}" ,",":",", "[":"[" , "]":"]" , "(":"(" , ")":")" 
 }**
 '''
+
 To run the code, download this repository and open it in VScode then simply press F5.
 
 _Right now i am working on Syntax Analyzer so when its done i will inclue the file in this Repository._
