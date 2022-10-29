@@ -4,6 +4,7 @@ LA.py file reads the input file "f.txt" breaks it using wordbreaker function and
 I have also used Regex to find the match of words.
 
 Its important for a wordbreaker to ignore the comments and not convert them into tokens. Here, i have used "#" symbol for comments.
+
 ***Token ==> (classPart, valuePart, LineNo)***
 These are the keywords, operators and punctuators that i have used in my language.
 
@@ -21,8 +22,7 @@ These are the keywords, operators and punctuators that i have used in my languag
     "&":"&", "+":"Plus/Minus", "-":"Plus/Minus", "*":"Multiply/Divide/Modulus","/":"Multiply/Divide/Modulus",
     "%":"Multiply/Divide/Modulus","++":"Increment/Decrement", "--":"Increment/Decrement",
     "+:=":"Compound Assignment", "-:=":"Compound Assignment", "*:=":"Compound Assignment", "/:=":"Compound Assignment"
-    
-}**
+ }**
 
 **puncTuators = {
     ".":"." , ";":";" , "{":"{" , "}":"}" ,",":",", "[":"[" , "]":"]" , "(":"(" , ")":")" 
