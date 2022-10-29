@@ -1,5 +1,5 @@
 # Compiler-Construction
-This Repository includes the Lexical Analyzer.
+This Repository includes the ##Lexical Analyzer.
 LA.py file reads the input file "f.txt" breaks it using wordbreaker function and creates the token using "Token.py" file then write these token into output.txt file.
 I have also used Regex to find the match of words.
 
