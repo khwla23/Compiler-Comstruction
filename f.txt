@@ -1,0 +1,55 @@
+from math import m;
+class some inherits B {
+    abstract func abs(){}
+}
+
+abstract class do {
+    final int z := 5;
+    construct func do (int a , float b){
+        this->a := a;
+        this->b := b;
+    }
+    func conc(str s, char ch){
+        if (z > 5){
+            sch := s + ch;
+        }
+        else{
+            if  (i in arr[5]){
+                print (i);
+            }
+        }
+        return sch;
+    }
+}
+func m (){
+    for (int t := 1; t < 4; t++){
+        print(t);
+    }
+}
+for(;;){}
+
+
+final func square (float s){
+    sq := s *s;
+}
+# main program
+float _arr1 [][][] := [[[3.2 , 1.1], [1.0, 2.5]]];
+a->fn();
+a := 2.3 * a - fn();
+while(flag != False){
+    result +:= r;
+}
+for (i := 1; i <= 5; i++){
+    print(i);
+}
+
+o := obj do(a->f()->ff() - 4, fn()-56);
+int Arr[] := [2, 3];
+this->a->f()->ff() := 6;
+int a := 5;
+float b := 10.2;
+str s := "uv45";
+char ch := 'v';
+#function call
+sum (a, b);
+conc (s , ch);
