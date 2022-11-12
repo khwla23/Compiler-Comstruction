@@ -10,7 +10,7 @@ keyWord = {
     "while":"while", "for":"for", "continue":"continue", "break":"break", "return":"return", "array":"array",
     "bool":"DT", "int":"DT",  "float":"DT", "char":"DT", "str":"DT", "class":"class", "final":"final",
     "inherits":"inherits", "static":"static", "this":"this", "super":"super", "abstract":"abstract", 
-    "construct":"construct"
+    "construct":"construct", "public" : "public", "private" : "private"
 }
 
 operaTors = {
